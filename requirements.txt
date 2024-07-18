@@ -1,8 +1,8 @@
 streamlit==1.29
 numpy
-transformers
+transformers datasets
 pandas
 scikit-learn
-tensorflow
+tensorflow 
 python-dotenv
-datasets
+

@@ -1,7 +1,7 @@
-streamlit
+streamlit==1.29
 numpy
 transformers
 pandas
 scikit-learn
 tensorflow
-pytorch
+python-dotenv
